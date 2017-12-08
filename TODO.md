@@ -35,33 +35,33 @@
   - [x] Banana Jacks
   - [x] Barrel Jacks
   - [x] Batteries (CR1220/CR2032)
-  - [ ] C64/C96
-  - [ ] CNT3BRCMS
+  - [ ] <s>C64/C96</s> duplicates of footprints found in Connectors_IEC_DIN
+  - [ ] <s>CNT3BRCMS</s> no corresponding part found, dropped
   - [x] CUI_PD-30
   - [x] Coaxials (BNC, SMA, SMB)
   - [ ] FMC
   - [x] Fan-Pinheaders
   - [x] GS (SolderJumper)
-  - [ ] GTK2400
-  - [ ] GoldTek
+  - [ ] <s>GTK2400</s> no part found
+  - [ ] <s>GoldTek</s> no part found
   - [ ] Grove
   - [ ] HE10
-  - [ ] IQRF
+  - [ ] <s>IQRF</s> no part found
   - [ ] JWT
   - [ ] NMJ6
   - [x] PCI/ISA/... EdgeMounted connectors
   - [x] Pins
-  - [ ] QMS
+  - [ ] QMS -> needs major rework and checking against datasheet.
   - [x] RJ11/45
   - [x] SAS
   - [x] SATA
   - [x] SD/microSD-card receptables
-  - [ ] SOC
+  - [ ] <s>SOC</s> no part found
   - [ ] TE_Futurebus+
-  - [ ] Tag-Connect
+  - [x] Tag-Connect
   - [x] USBs
-  - [ ] Wafer
-  - [ ] XLR3/5
+  - [ ] <s>Wafer</s> no part found
+  - [ ] <s>XLR3/5</s> no part found
 - [x] Converters_DCDC_ACDC
 - [x] Crystals
 - [x] Diodes_SMD
